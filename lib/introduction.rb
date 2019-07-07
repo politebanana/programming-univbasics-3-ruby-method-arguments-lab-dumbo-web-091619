@@ -1,2 +1,3 @@
 def greeting
+  name = gets
   
